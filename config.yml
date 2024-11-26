@@ -78,12 +78,6 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:camerota.chiara.c@gmail.com
-        #- name: Zoom
-        #  url: https://www.zoom.us/my/igelfeld
-        #- name: Location
-        #  url: location/
-        #- name: Office Hours
-        #  url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=qoGLRa0AAAAJ&hl=it
         - name: GitHub
