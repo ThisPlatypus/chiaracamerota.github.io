@@ -10,23 +10,23 @@ taxonomies:
 
 menu:
     main:
-        - name: Pubblication
-          url: books/
-          weight: 5 
         - name: Research
           url: papers/
           weight: 2
         - name: Work in Progress
-          url: courses/
+          url: wp/
           weight: 3
+        - name: Home
+          url: /
+          weight: 1
         - name: Education
           url: data/
           weight: 4 
-        
+
 
 params:
-    description: “I am a Ph.D. candidate in Information Engineering at the University of Florence, Italy. My research focuses on applying machine learning to network systems and computer vision. I was a doctoral student of Professor Tommaso Pecorella in Florence and am now beginning a post-doctoral position at Saint Louis University in St. Louis, MO, working with Professor Flavio Esposito.”
-    author: Chiara Camerota
+    description: “I am a Ph.D. candidate in Information Engineering at the University of Florence, Italy.”
+    author: Chiara 
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2025"
     defaultTheme: light
@@ -40,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -59,11 +59,10 @@ params:
             - name: Research
               url: papers/
             - name: Work in Progress
-              url: courses/
+              url: wp/
             - name: Education
               url: data/
-            - name: Pubblication
-              url: books/
+
             
             
 
