@@ -44,3 +44,7 @@
 .button:hover {
     background: var(--lightcolor);
 }
+
+.markdown-body {
+    background-color: #faf3d3; /* Replace with your desired background color */
+}
