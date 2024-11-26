@@ -82,12 +82,6 @@ params:
           url: https://scholar.google.com/citations?user=qoGLRa0AAAAJ&hl=it
         - name: GitHub
           url: https://github.com/ThisPlatypus
-        #- name: Substack
-        # url: https://pmichaillat.substack.com
-        #- name: YouTube
-        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        #- name: Twitter
-        #  url: https://twitter.com/McCallSmith
         - name: Linkedin
           url: https://www.linkedin.com/in/chiara-camerota/
 
@@ -98,7 +92,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Chiara Camerota"
-      icon: favicon.ico
+      icon: BlogIcon.ico
       iconHeight: 18
 
 markup:
