@@ -10,16 +10,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Pubblication
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Research
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Work in Progress
           url: courses/
           weight: 3
-        - name: Data
+        - name: Education
           url: data/
           weight: 4 
         
