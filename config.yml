@@ -85,7 +85,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Chiara Camerota"
-      icon: BlogIcon.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
