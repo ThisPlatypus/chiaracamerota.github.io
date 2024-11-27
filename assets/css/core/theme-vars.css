@@ -7,7 +7,7 @@
     --footer-height: 70px;
     --radius: 8px;
     --theme: #FAF3D3;
-    --entry: #F8CCDE: ;
+    --entry: rgb(248, 204, 222): ;
     --primary: rgb(30, 30, 30);
     --secondary:#67afbe;
     --tertiary:  #f8ccde;
@@ -17,7 +17,7 @@
     --code-bg: #faf3d3;
     --darkpurple: #d3c5f2
     --border: #f8ccde;
-    --darkcolor:#f8ccde;
+    --darkcolor:#d6b0c0;
     --lightcolor: #c5e8b4;
     --semibold: 500;
     --homesize: 18px;
