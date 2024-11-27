@@ -19,9 +19,7 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Education
-          url: data/
-          weight: 4 
+
 
 
 params:
@@ -40,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["courses","papers","data"]
+    MainSections: ["courses","papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,8 +58,7 @@ params:
               url: papers/
             - name: Work in Progress
               url: wp/
-            - name: Education
-              url: data/
+
 
             
             
