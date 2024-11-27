@@ -24,7 +24,7 @@ menu:
 
 params:
     description: “I am a Ph.D. candidate in Information Engineering at the University of Florence, Italy.”
-    author: Chiara 
+
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2025"
     defaultTheme: light
