@@ -7,8 +7,8 @@
     --footer-height: 70px;
     --radius: 8px;
     --theme: #FAF3D3;
-    --entry: rgb(248, 204, 222): 
-    --primary: rgb(248, 204, 222);
+    --entry: ##FAF3D3;
+    --primary: rgb(30, 30, 30);
     --secondary:#67afbe;
     --tertiary:  #f8ccde;
     --gray:  #9e93b5;
@@ -16,6 +16,7 @@
     --code-block-bg: rgb(28, 29, 33);
     --code-bg: #faf3d3;
     --darkpurple: #d3c5f2
+    --lightpurple: ##F8CCDE;
     --border: #f8ccde;
     --darkcolor:#d6b0c0;
     --lightcolor: #c5e8b4;
