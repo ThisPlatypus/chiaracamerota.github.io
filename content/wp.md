@@ -13,5 +13,9 @@ description: "My current reading list."
 ### Work in Progress
 
 - **The implementation of an Industrial IoT system will enable the identification of tissue quality.**  (Joint with [Tommaso Pecorella](https://arc.net/l/quote/nkcuzaqb) -- [Draft Soon] -- *Sponsored by PPRISMA EU project*
-- **A study on the live recognition of ABM faults in turbomachines** (Joint with G. Donati) -- [Draft Soon]
 
+- **A study on the live recognition of ABM faults in turbomachines, based on images** (Joint with G. Donati) -- [Draft Soon]
+
+- **A robust optimization for studying electrical consumption** (Joint with L. Becchi, M. Intraviata, M. Bindi and G. M. Lozito) -- [Draft Soon]
+
+- **Forecast of pediatric emergency admissions** (Joint with SLU University and Pr. Flavio Esposito) -- [Draft Soon]
