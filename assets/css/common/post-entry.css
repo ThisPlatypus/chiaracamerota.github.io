@@ -40,11 +40,11 @@
     background: var(--entry);
     border-radius: var(--radius);
     transition: transform 0.1s;
-    border: 2px solid var(--border);
+    border: 5px solid var(--border);
 }
 
 .post-entry:hover {
-     border: 2px solid var(--darkcolor);
+     border: 5px solid var(--darkcolor);
 }
 
 .tag-entry .entry-cover {
