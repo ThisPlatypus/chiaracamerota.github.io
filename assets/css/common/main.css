@@ -57,7 +57,7 @@
 }
 
 .social-icons a:hover {
-    color: var(--darkcolor);
+    color: var(--hrefcolorSC);
 }
 
 code {
