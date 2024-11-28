@@ -4,10 +4,14 @@ title: "Work in Progress"
 description: "My current reading list."
 ---
 
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwza3EyY3hqYmY4aHd2enUxMzU1enZzNW91Nm51bmFwYjRlZnVheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xTUmZABI3PGwDe/giphy.gif) 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwza3EyY3hqYmY4aHd2enUxMzU1enZzNW91Nm51bmFwYjRlZnVheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xTUmZABI3PGwDe/giphy.gif" alt="Alt Text" width="500" height="300">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZtdTliMm9wcnNpYXZwenA2YWdmazMxYmhkaTFodHloZHd3cGptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lizSDX8mHfbstV0GKw/giphy.gif" alt="Alt Text" width="500" height="300">
+</div>
+
+
 ### Work in Progress
 
-- **The implementation of an Industrial IoT system will enable the identification of tissue quality.**  (Joint with [Tommaso Pecorella](https://arc.net/l/quote/nkcuzaqb) -- [Draft Soon] -- * Sponsored by PPRISMA EU project *
+- **The implementation of an Industrial IoT system will enable the identification of tissue quality.**  (Joint with [Tommaso Pecorella](https://arc.net/l/quote/nkcuzaqb) -- [Draft Soon] -- *Sponsored by PPRISMA EU project*
 - **A study on the live recognition of ABM faults in turbomachines** (Joint with G. Donati) -- [Draft Soon]
 
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZtdTliMm9wcnNpYXZwenA2YWdmazMxYmhkaTFodHloZHd3cGptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lizSDX8mHfbstV0GKw/giphy.gif)
