@@ -10,8 +10,8 @@ cover:
     alt: "IoT and harvesting"
     relative: false
 editPost:
-    URL: "https://github.com/Thisplatypus/AHIOTDNMBMDM"
-    Text: "Journal of Oleic Science"
+    URL: "https://thisplatypus.github.io/chiaracamerota.github.io/papers/paper1/paper1.pdf"
+    Text: "Global IoT Summit"
 
 ---
 
