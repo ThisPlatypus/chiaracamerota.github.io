@@ -1,9 +1,9 @@
 ---
 title: "Automating Heterogeneous Internet of Things Device Networks from Multiple Brokers with Multiple Data Models " 
-date: 2022-06-15
-lastmod: 2022-07-12
+date: "2022-06-15"
+lastmod: "2022-07-12"
 tags: ["IoT","automatic harvesting","Internet of Things","Broker"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+author: ["Pierfrancesco Bellini, Chiara Camerota, and Paolo Nesi"]
 description: "This paper ris pubblished in Global IoT Summit, 2022." 
 summary: "This paper discusses the automatic harvesting of news from new devices to integrate into existing IoT systems." 
 cover:
