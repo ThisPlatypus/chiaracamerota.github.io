@@ -1,18 +1,15 @@
 ---
 title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+tags: [ "Magnetic sensors", "Neural networks" "Convolutional Neural Networks"]
+author: ["Giovanni Donati", "Michele Basso",  "Marco Mugnaini", "Chiara Camerota"]
+description: "This paper studies the fault recognitions in an ABMs system. Published in 2024 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0 & IoT), 2024." 
+summary: "This paper studies the fault recognitions in an ABMs system." 
 cover:
     image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://ieeexplore.ieee.org/abstract/document/10584163"
+    Text: "Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0 & IoT)"
 
 ---
 
@@ -21,8 +18,6 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
 
 ---
 
@@ -43,20 +38,16 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@INPROCEEDINGS{10584163,
+  author={Donati, Giovanni and Basso, Michele and Mugnaini, Marco and Camerota, Chiara},
+  booktitle={2024 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0 & IoT)}, 
+  title={A Convolutional Neural Network to Locate Unbalance in Turbomachinery Supported by AMBs}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={274-279},
+  keywords={Dictionaries;Accuracy;Magnetic sensors;Fault detection;Neural networks;Rotors;Impellers;Active Magnetic Bearings;AMB;Rotor fault;Unbalance Fault;Convolutional Neural Networks},
+  doi={10.1109/MetroInd4.0IoT61288.2024.10584163}}
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
