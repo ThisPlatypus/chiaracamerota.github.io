@@ -1,17 +1,17 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
+title: "Automating Heterogeneous Internet of Things Device Networks from Multiple Brokers with Multiple Data Models " 
+date: 2022-06-15
+lastmod: 2022-07-12
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+description: "This paper ris pubblished in Global IoT Summit, 2022." 
+summary: "This paper discusses the automatic harvesting of news from new devices to integrate into existing IoT systems." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "IoT and harvesting"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/Thisplatypus/AHIOTDNMBMDM"
     Text: "Journal of Oleic Science"
 
 ---
@@ -21,42 +21,26 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
+The Internet of Things (IoT) is becoming pervasive and with each new installation of the IoT platform legacy internal and external brokers have to be integrated. Internal brokers are those under the control of the platform, while external brokers are managed by third parties. Both brokers kind may be multiservice/multi-tenant and may manage multiple Data Models. The interoperable management of these complex networks has to pass from the IoT device registration which is typically a re-current operation since the IoT networks are in continuous evolution. In this paper, the above-mentioned problems have been addressed by the introduction of our concept of IoT Directory and reasoning tools to (i) manage Internal and External brokers,(ii) perform the automated registration by harvesting and reasoning of devices managed into external brokers single-or multi-tenant services,(iii) perform the automated registration and management of Data Models, and any custom Data Model. The solution has been developed and tested into Snap4City, an 100% open-source IoT platform for Smart Cities and Industry 4.0, the official FIWARE platform, EOSC, and lib of Node-RED. The specific IoT Directory has been developed in the context of the Herit-Data Project, the results have been validated in wide conditions of the whole Snap4City network of more than 18 tenants, and billions of data.
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+BELLINI, Pierfrancesco; CAMEROTA, Chiara; NESI, Paolo. Automating Heterogeneous IoT Device Networks from Multiple Brokers with Multiple Data Models. In: Global IoT Summit. Cham: Springer International Publishing, 2022. p. 226-238.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@incollection{bellini2022automating,
+  title={Automating Heterogeneous IoT Device Networks from Multiple Brokers with Multiple Data Models},
+  author={Bellini, Pierfrancesco and Camerota, Chiara and Nesi, Paolo},
+  booktitle={Global IoT Summit},
+  pages={226--238},
+  year={2022},
+  publisher={Springer}
+}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
