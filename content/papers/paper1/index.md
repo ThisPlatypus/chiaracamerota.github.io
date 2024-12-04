@@ -46,7 +46,6 @@ malware IoT detection},
 ```
 
 ---
----
 ##### Related material
 
 + [Presentation slides](pres2.pdf)

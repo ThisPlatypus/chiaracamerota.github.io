@@ -42,8 +42,6 @@ Existing malware detection strategies often concentrate on specific facets, such
   doi={TBD}
 }
 ```
-
----
 ---
 ##### Related material
 

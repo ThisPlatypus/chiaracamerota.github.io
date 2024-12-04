@@ -11,7 +11,6 @@ editPost:
     URL: "https://www.mdpi.com/1424-8220/23/16/7023"
     Text: "Sensor"
 
----
 
 ---
 
