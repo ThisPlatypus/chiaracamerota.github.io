@@ -1,9 +1,7 @@
 ---
 title: "Your Inner Hedgehog" 
-date: 2021-04-06
-lastmod: 2024-10-18
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Giovanni Donati", "Michele Basso", "Graziano A. Manduzio",  "Marco Mugnaini", "Tommaso Pecorella" and "Chiara Camerota"]
+tags: ["active magnetic bearing (AMB)"," fault analysis", "convolutional neural networks"]
+author: ["Giovanni Donati", "Michele Basso", "Graziano A. Manduzio", "Marco Mugnaini", "Tommaso Pecorella" , "Chiara Camerota"]
 description: "This paper presents a case study on the application of Convolutional Neural Networks (CNNs) for the recognition of electrical faults in Active Magnetic Bearing systems. Published in the Sensors, 2023." 
 summary: "This paper presents a case study on the application of Convolutional Neural Networks (CNNs) for the recognition of electrical faults in Active Magnetic Bearing systems." 
 cover:
