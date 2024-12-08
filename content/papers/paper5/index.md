@@ -5,7 +5,7 @@ author: ["Chiara Camerota", "Lorenzo Pappone", "Tommaso Pecorella", "Flavio Espo
 description: "This paper investigates on how to define the miimum sample siz and improving the data agumentation for Traffic Images. Published 20th International Conference on Network and Service Management, 2024." 
 summary: "This paper investigates on how to define the miimum sample siz and improving the data agumentation for Traffic Images." 
 cover:
-    image: "paper2.png"
+    image: "paper23.png"
     relative: false
 editPost:
     #URL: "https://ieeexplore.ieee.org/abstract/document/10584163"

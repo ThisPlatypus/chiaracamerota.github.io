@@ -5,7 +5,7 @@ author: ["Giovanni Donati", "Michele Basso", "Marco Mugnaini", "Chiara Camerota"
 description: "This paper studies the fault recognitions in an ABMs system. Published in 2024 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0 & IoT), 2024." 
 summary: "This paper studies the fault recognitions in an ABMs system." 
 cover:
-    image: "paper2.png"
+    image: "paper21.png"
     relative: false
 editPost:
     URL: "https://ieeexplore.ieee.org/abstract/document/10584163"
@@ -16,7 +16,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
++ [Paper](paper2.pdf)
 
 
 ---
