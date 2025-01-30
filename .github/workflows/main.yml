@@ -1,0 +1,13 @@
+    - name: Upload deb package
+       uses: actions/upload-artifact@v4
+       with:
+         name: myApp-${{ env.VERSION }}-ub2204.deb
+         path: ./*deb
+         compression-level: 0
+ 
+     - name: Upload tgz package
+       uses: actions/upload-artifact@v4
+       with:
+         name: myApp-${{ env.VERSION }}-ub2204.tgz
+         path: ./*tgz
+         compression-level: 0
