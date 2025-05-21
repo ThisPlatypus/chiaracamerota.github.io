@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Chiara Camerota, Ph.D.
-          subtitle: I am a Ph.D. candidate in Information Engineering at the University of Florence, Italy. My research focuses on applying machine learning to network systems and computer vision. I was a doctoral student of Professor Tommaso Pecorella in Florence and am now beginning a post-doctoral position at Saint Louis University in St. Louis, MO, working with Professor Flavio Esposito. 
+          subtitle: I am a Postdoctoral researcher in Computer Science at Saint Louis University, St. Louis, MO (USA). My research focuses on applying machine learning to network systems and computer vision. I was a doctoral student of Professor Tommaso Pecorella in Florence and am now beginning a post-doctoral position at Saint Louis University in St. Louis, MO, working with Professor Flavio Esposito. 
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
