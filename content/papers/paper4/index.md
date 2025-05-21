@@ -1,5 +1,6 @@
 ---
 title: "A Convolutional Neural Network to Locate Unbalance in Turbomachinery Supported by AMBs" 
+date: 2025-05-28
 tags: ["Magnetic sensors", "Neural networks" , "Convolutional Neural Networks"]
 author: ["Giovanni Donati", "Michele Basso", "Marco Mugnaini", "Chiara Camerota"]
 description: "This paper studies the fault recognitions in an ABMs system. Published in 2024 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0 & IoT), 2024." 
