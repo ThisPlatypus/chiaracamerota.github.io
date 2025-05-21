@@ -1,5 +1,6 @@
 ---
 title: "The intrinsic convenience of federated learning in malware IoT detection" 
+weight: 2
 tags: ["malware detection"," traffic classification", "distributed deep learning"]
 author: ["Chiara Camerota", "Tommaso Pecorella", "Andrew D. Bagdanov"]
 description: "This paper investigates on how to implement a federated malware recognition system. Publishing 1st Workshop on Integrated Wireless Networking and Computing (IWNC), 2024." 
