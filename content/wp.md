@@ -12,10 +12,14 @@ description: "My current reading list."
 
 - **A study on the live recognition of ABM faults in turbomachines, based on images** (Joint with G. Donati) -- [Draft Soon]
 
-- **A robust optimization for studying electrical consumption** (Joint with L. Becchi, M. Intraviata, M. Bindi and G. M. Lozito) -- [Draft Soon]
+- **A robust optimization for studying electrical consumption** (Joint with L. Becchi, M. Intraviata, M. Bindi, and G. M. Lozito) -- [Draft Soon, Submitted]
 
 - **Forecast of pediatric emergency admissions** (Joint with SLU University and Pr. Flavio Esposito) -- [Draft Soon]
 
+-  **Dynamic Pruning using raw metadata** (Joint with Pr. Flavio Esposito) -- [Draft Soon]
+  
+-  **POSTER: Communication-Efficient Federated Learning with Top K selection** (Joint with [Javier Palomares Torrecilla](https://scholar.google.com/citations?user=uT6LLmkAAAAJ&hl=en) ) -- [Draft Soon]
+  
     <div class="image-container"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZtdTliMm9wcnNpYXZwenA2YWdmazMxYmhkaTFodHloZHd3cGptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lizSDX8mHfbstV0GKw/giphy.gif" alt="Image 2">
 </div>
 
