@@ -1,51 +1,51 @@
 ---
-title: "A Convolutional Neural Network for Electrical Fault Recognition in Active Magnetic Bearing Systems" 
-tags: ["active magnetic bearing (AMB)"," fault analysis", "convolutional neural networks"]
-author: ["Giovanni Donati", "Michele Basso", "Graziano A. Manduzio", "Marco Mugnaini", "Tommaso Pecorella" , "Chiara Camerota"]
-description: "This paper presents a case study on the application of Convolutional Neural Networks (CNNs) for the recognition of electrical faults in Active Magnetic Bearing systems. Published in the Sensors, 2023." 
-summary: "This paper presents a case study on the application of Convolutional Neural Networks (CNNs) for the recognition of electrical faults in Active Magnetic Bearing systems." 
+title: "The intrinsic convenience of federated learning in
+malware IoT detection" 
+tags: ["malware detection"," traffic classification", "distributed deep learning"]
+author: ["Chiara Camerota", "Tommaso Pecorella", "Andrew D. Bagdanov"]
+description: "This paper investigates on how to implement a federated malware recognition system. Publishing 1st Workshop on Integrated Wireless Networking and Computing (IWNC), 2024." 
+summary: "This paper investigates on on how to implement a federated malware recognition system." 
 cover:
-    image: "paper3.png"
+    image: "paper2.png"
     relative: false
 editPost:
-    URL: "https://www.mdpi.com/1424-8220/23/16/7023"
-    Text: "Sensor"
+    #URL: "https://ieeexplore.ieee.org/abstract/document/10584163"
+    Text: "1st Workshop on Integrated Wireless Networking and Computing (IWNC)"
 
+---
 
 ---
 
 ##### Download
 
-+ [Paper](paper3.pdf)
++ [Paper](Paper FL .pdf)
 
 ---
 
 ##### Abstract
 
-Active magnetic bearings are complex mechatronic systems that consist of mechanical, electrical, and software parts, unlike classical rolling bearings. Given the complexity of this type of system, fault detection is a critical process. This paper presents a new and easy way to detect faults based on the use of a fault dictionary and Machine Learning. In particular, the dictionary was built starting from fault signatures consisting of images obtained from the signals available in the sys-tem. Subsequently, a convolutional neural network was trained to recognize such fault signature images. This work concentrates on recognizing the most frequent electrical faults that typically af-fect position sensors and actuators.  This new method permits, in a computationally convenient way, that can be implemented in real time, to determine which component has failed and what kind of failure has occurred. Therefore, this fault identification system allows for determining, in the event of a fault, which countermeasure to adopt in order to enhance the reliability of the sys-tem. The performance of the proposed method is assessed by means of a case study concerning a real turbomachine supported by two active magnetic bearings for the oil and gas field. Seventeen fault classes have been considered and the neural network fault classifier reached an accuracy of 93% on the test dataset.
+The Internet of Things is emerging as a key concept, defining a network of interconnected devices capable of seamless data collection, exchange, and analysis. However, due to their emphasis on simplicity, these devices are often vulnerable to malware attacks. This study examines the potential of machine learning methods, specifically in the context of Federated Learning, to enhance privacy protection and to benefit from IoT’s decentralized nature, such as the low overhead traffic. The proposed approach is a federated machine learning algorithm based on a central aggregator and several clients. The study aims to conduct a comprehensive analysis using the IOT-23 dataset, which contains real and labeled instances of malware infections.
+The test outcomes demonstrate that the proposed approach outperforms centralized approaches regarding the global area under the precision-recall curve (AUPRC) and variance, with a significance level of 0.05.
 
 ---
+
 
 ##### Citation
 
-Donati, G., Basso, M., Manduzio, G. A., Mugnaini, M., Pecorella, T., & Camerota, C. (2023). A Convolutional Neural Network for Electrical Fault Recognition in Active Magnetic Bearing Systems. Sensors, 23(16), 7023. https://doi.org/10.3390/s23167023
+*NOT PUBLISHED YET*
 
 ```BibTeX
-
-@Article{s23167023,
-AUTHOR = {Donati, Giovanni and Basso, Michele and Manduzio, Graziano A. and Mugnaini, Marco and Pecorella, Tommaso and Camerota, Chiara},
-TITLE = {A Convolutional Neural Network for Electrical Fault Recognition in Active Magnetic Bearing Systems},
-JOURNAL = {Sensors},
-VOLUME = {23},
-YEAR = {2023},
-NUMBER = {16},
-ARTICLE-NUMBER = {7023},
-URL = {https://www.mdpi.com/1424-8220/23/16/7023},
-PubMedID = {37631560},
-ISSN = {1424-8220},
-DOI = {10.3390/s23167023}
+@inproceedings{camerota2024addressing,
+  title={The intrinsic convenience of federated learning in
+malware IoT detection},
+  author={Camerota, Chiara  and Pecorella, Tommaso and Bagdanov, Andrew D.},
+  booktitle={1st Workshop on Integrated Wireless Networking and Computing (IWNC)},
+  year={2024},
+  doi={TBD}
 }
-
 ```
 
 ---
+##### Related material
+
++ [Presentation slides](pres2.pdf)

@@ -1,16 +1,15 @@
 ---
-title: "The intrinsic convenience of federated learning in
-malware IoT detection" 
-tags: ["malware detection"," traffic classification", "distributed deep learning"]
-author: ["Chiara Camerota", "Tommaso Pecorella", "Andrew D. Bagdanov"]
-description: "This paper investigates on how to implement a federated malware recognition system. Publishing 1st Workshop on Integrated Wireless Networking and Computing (IWNC), 2024." 
-summary: "This paper investigates on on how to implement a federated malware recognition system." 
+title: "Addressing Data Security in IoT: Minimum Sample Size and Denoising Diffusion Models for Improved Malware Detection" 
+tags: ["malware detection"," traffic classification", "deep learning"]
+author: ["Chiara Camerota", "Lorenzo Pappone", "Tommaso Pecorella", "Flavio Esposito"]
+description: "This paper investigates on how to define the miimum sample siz and improving the data agumentation for Traffic Images. Published 20th International Conference on Network and Service Management, 2024." 
+summary: "This paper investigates on how to define the miimum sample siz and improving the data agumentation for Traffic Images." 
 cover:
-    image: "paper2.png"
+    image: "paper23.png"
     relative: false
 editPost:
     #URL: "https://ieeexplore.ieee.org/abstract/document/10584163"
-    Text: "1st Workshop on Integrated Wireless Networking and Computing (IWNC)"
+    Text: "20th International Conference on Network and Service Management"
 
 ---
 
@@ -18,14 +17,14 @@ editPost:
 
 ##### Download
 
-+ [Paper](Paper FL .pdf)
++ [Paper](paperSampe.pdf)
 
 ---
 
 ##### Abstract
 
-The Internet of Things is emerging as a key concept, defining a network of interconnected devices capable of seamless data collection, exchange, and analysis. However, due to their emphasis on simplicity, these devices are often vulnerable to malware attacks. This study examines the potential of machine learning methods, specifically in the context of Federated Learning, to enhance privacy protection and to benefit from IoT’s decentralized nature, such as the low overhead traffic. The proposed approach is a federated machine learning algorithm based on a central aggregator and several clients. The study aims to conduct a comprehensive analysis using the IOT-23 dataset, which contains real and labeled instances of malware infections.
-The test outcomes demonstrate that the proposed approach outperforms centralized approaches regarding the global area under the precision-recall curve (AUPRC) and variance, with a significance level of 0.05.
+Machine learning (ML) has emerged as a compelling approach to identify attacks in network traffic security. 
+Existing malware detection strategies often concentrate on specific facets, such as efficient data collection, particular types of malware, or handling data scarcity. While valid, these strategies typically overlook the potential for minimizing sample size, focusing instead on data augmentation. This work introduces a novel method to determine the minimum sample size necessary to achieve a specified accuracy level, measured by the F1 score derived from the confusion matrix. We focus on TCP header traffic data transformed into images through flow-splitting techniques for multi-class traffic classification. In addition, we introduce a diffusion model to generate new synthetic traffic images and show that our method outperforms existing techniques in terms of stability and predictability. This study also compares the effectiveness of synthetic image augmentation using Generative Adversarial Networks (GANs) and Denoising Diffusion Probabilistic Models (DDPM) in improving image recognition and classification accuracy. 
 
 ---
 
@@ -36,16 +35,14 @@ The test outcomes demonstrate that the proposed approach outperforms centralized
 
 ```BibTeX
 @inproceedings{camerota2024addressing,
-  title={The intrinsic convenience of federated learning in
-malware IoT detection},
-  author={Camerota, Chiara  and Pecorella, Tommaso and Bagdanov, Andrew D.},
-  booktitle={1st Workshop on Integrated Wireless Networking and Computing (IWNC)},
+  title={Addressing Data Security in IoT: Minimum Sample Size and Denoising Diffusion Models for Improved Malware Detection},
+  author={Camerota, Chiara and Pappone, Lorenzo and Pecorella, Tommaso and Esposito, Flavio},
+  booktitle={20th International Conference on Network and Service Management},
   year={2024},
   doi={TBD}
 }
 ```
-
 ---
 ##### Related material
 
-+ [Presentation slides](pres2.pdf)
++ [Presentation slides](PRes.pdf)
