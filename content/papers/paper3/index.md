@@ -1,6 +1,5 @@
 ---
 title: "Automating Heterogeneous Internet of Things Device Networks from Multiple Brokers with Multiple Data Models " 
-date: 2025-05-29
 date: "June"
 tags: ["IoT","automatic harvesting","Internet of Things","Broker"]
 author: ["Pierfrancesco Bellini, Chiara Camerota, and Paolo Nesi"]
