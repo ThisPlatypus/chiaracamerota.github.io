@@ -8,17 +8,13 @@ description: "My current reading list."
 
 ##### Work in Progress
 
-- **The implementation of an Industrial IoT system will enable the identification of tissue quality.**  (Joint with [Tommaso Pecorella](https://arc.net/l/quote/nkcuzaqb) -- [Draft Soon] -- *Sponsored by PPRISMA EU project*
 
-- **A study on the live recognition of ABM faults in turbomachines, based on images** (Joint with G. Donati) -- [Draft Soon]
+- **Load Profile Generation for Robust Optimization: A Stochastic Approach Based on Conditional Probability Approximation** (Joint with L. Becchi, M. Intraviata, M. Bindi, and G. M. Lozito) -- [Under submition]
 
-- **A robust optimization for studying electrical consumption** (Joint with L. Becchi, M. Intraviata, M. Bindi, and G. M. Lozito) -- [Draft Soon, Submitted]
+    _ABSTRACT: With the growing integration of renewable energy sources into distributed grids, accurate household‐level load forecasting becomes essential for robust energy management and optimization. This paper proposes a lightweight stochastic profile generation method grounded in conditional probability approximation. First, empirical conditional distributions are mined from historical load data via hourly histogram binning and correlation analysis. Second, a Monte Carlo‐inspired “flock” of plausible future load trajectories is generated iteratively, each endowed with an occurrence probability. Validation on the Ausgrid dataset (127 prosumer profiles over one year) shows that the probabilistic mining step requires only 0.5–0.6 s for history depths of 30–180 days, while generating 200 scenarios takes merely 8.1 ms, with a total memory footprint of approximately 200 KB. These computational and storage efficiencies render the approach suitable for online deployment on edge devices, enabling robust optimization under uncertainty in renewable energy communities._
 
-- **Forecast of pediatric emergency admissions** (Joint with SLU University and Pr. Flavio Esposito) -- [Draft Soon]
-
--  **Dynamic Pruning using raw metadata** (Joint with Pr. Flavio Esposito) -- [Draft Soon]
   
--  **POSTER: Communication-Efficient Federated Learning with Top K selection** (Joint with [Javier Palomares Torrecilla](https://scholar.google.com/citations?user=uT6LLmkAAAAJ&hl=en) ) -- [Draft Soon]
+-  **Communication-Efficient Federated Learning with Top K selection** (Joint with Javier Palomares, Estefanía Coronado and Flavio Esposito) -- [Under submition]
   
     <div class="image-container"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZtdTliMm9wcnNpYXZwenA2YWdmazMxYmhkaTFodHloZHd3cGptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lizSDX8mHfbstV0GKw/giphy.gif" alt="Image 2">
 </div>
