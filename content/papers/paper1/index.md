@@ -1,6 +1,6 @@
 ---
 title: "Addressing Data Security in IoT: Minimum Sample Size and Denoising Diffusion Models for Improved Malware Detection" 
-weight: 1
+weight: 10
 tags: ["malware detection"," traffic classification", "deep learning"]
 author: ["Chiara Camerota", "Lorenzo Pappone", "Tommaso Pecorella", "Flavio Esposito"]
 description: "This paper investigates on how to define the miimum sample siz and improving the data agumentation for Traffic Images. Published 20th International Conference on Network and Service Management, 2024." 

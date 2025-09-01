@@ -1,6 +1,6 @@
 ---
 title: "A Convolutional Neural Network for Electrical Fault Recognition in Active Magnetic Bearing Systems" 
-weight: 5
+weight: 60
 tags: ["active magnetic bearing (AMB)"," fault analysis", "convolutional neural networks"]
 author: ["Giovanni Donati", "Michele Basso", "Graziano A. Manduzio", "Marco Mugnaini", "Tommaso Pecorella" , "Chiara Camerota"]
 description: "This paper presents a case study on the application of Convolutional Neural Networks (CNNs) for the recognition of electrical faults in Active Magnetic Bearing systems. Published in the Sensors, 2023." 
