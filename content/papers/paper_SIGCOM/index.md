@@ -33,15 +33,7 @@ Detecting malware in Internet of Things (IoT) systems is challenging due to reso
 
 *NOT PUBLISHED YET*
 
-```BibTeX
-@inproceedings{camerota2024addressing,
-  title={Addressing Data Security in IoT: Minimum Sample Size and Denoising Diffusion Models for Improved Malware Detection},
-  author={Camerota, Chiara and Pappone, Lorenzo and Pecorella, Tommaso and Esposito, Flavio},
-  booktitle={20th International Conference on Network and Service Management},
-  year={2024},
-  doi={TBD}
-}
-```
+
 ---
 ##### Related material
 
