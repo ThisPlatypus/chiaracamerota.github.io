@@ -13,9 +13,6 @@ menu:
         - name: Publications
           url: papers/
           weight: 2
-        - name: Work in Progress
-          url: wp/
-          weight: 3
         - name: Home
           url: /
           weight: 1
