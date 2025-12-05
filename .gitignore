@@ -2,3 +2,4 @@
 .hugo_build.lock
 /index completoMD
 content/papers/paperTemp/*
+content/papers/paper_SIGCOM
