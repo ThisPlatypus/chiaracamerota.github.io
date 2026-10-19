@@ -59,8 +59,6 @@ params:
             
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:camerota.chiara.c@gmail.com
         - name: Google Scholar
